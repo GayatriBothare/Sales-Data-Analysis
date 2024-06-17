@@ -107,3 +107,12 @@ Based on the results of data analysis, we want to make recommendations such as:
 * Focus marketing efforts on products with high profit margins.
 * Offer discounts strategically to avoid reducing profitability.
 * Target sales efforts to specific customer segments or countries.
+
+## Power BI Pages
+
+The project includes the following Power BI pages to summarize the analysis and findings:
+
+1. **Sales Analysis:** An overview of sales trends, highlighting peak sales periods and top-selling products.
+2. **Profit Analysis:** A detailed look at profit margins across different products and customer segments.
+3. **Country-Wise Report:** Insights into sales performance across various countries, identifying key markets.
+4. **Segment-Wise Report:** Analysis of customer segments to identify the most profitable and significant customer groups.
